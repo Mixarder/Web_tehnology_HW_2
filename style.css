@@ -1,0 +1,57 @@
+.block {
+    width: 100%;
+    height: 150px;
+    border: 1px solid black;
+    background-image: url(img/IMG_1817.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.heading {
+    text-align: center;
+    background-color: rgb(69, 115, 111);
+    color: antiquewhite;
+
+}
+
+.text {
+    width: 80%;
+    text-align: center;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.text1 {
+    width: 80%;
+    text-align: left;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.pics {
+    width: 800px;
+    background-position: center;
+}
+
+.title {
+    color: brown;
+}
+
+.color_link {
+    color: antiquewhite;
+    font-size: 30px;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.block2 {
+    width: 100%;
+    height: 150px;
+    border: 1px solid black;
+    background-image: url(https://hypnosecoach-hannover.de/wp-content/uploads/2017/12/JT_Anfahrt_Header_1800x400.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
